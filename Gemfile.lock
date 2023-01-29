@@ -463,7 +463,7 @@ GEM
     timecop (0.9.5)
     timeout (0.3.0)
     ttfunk (1.7.0)
-    tzinfo (2.0.4)
+    tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     tzinfo-data (1.2022.1)
       tzinfo (>= 1.0.0)
