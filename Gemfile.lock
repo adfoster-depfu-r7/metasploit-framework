@@ -387,7 +387,7 @@ GEM
     rex-text (0.2.38)
     rex-zip (0.1.4)
       rex-text
-    rexml (3.2.5)
+    rexml (3.3.9)
     rkelly-remix (0.0.7)
     rspec (3.11.0)
       rspec-core (~> 3.11.0)
